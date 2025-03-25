@@ -1,6 +1,6 @@
 ﻿Case_No;Drug_Name;Current_Indication;Repurposed_Indication;Shared_Pathway;Viability;Reference_ID;Known_Status
 1;Telmisartan ;Diabetes Mellitus;Hypertensive disease;WP5133;Viable;R1;Known
-2;Ezetimibe;Hyperlipidemia;Hypercholesterolemia, familial;WP5109;Viable;R2;Known
+2;Ezetimibe;Hyperlipidemia;Familial hypercholesterolemia;WP5109;Viable;R2;Known
 3;Minocycline;Alzheimer’s disease;Parkinson’s disease;WP5180;Viable;R3;Known
 4;Perindopril;Diabetes Mellitus;Hypertensive disease;WP5133;Viable;R4;Known
 5;Verapamil;Hypertensive disease;Diabetes Mellitus;WP5133;Viable;R5;New
