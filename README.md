@@ -29,6 +29,10 @@ The repository includes:
 │   ├── pathway_cases.csv
 │   ├── benchmark_cases.csv
 │   └── prompt_templates/
+├── docs/
+│   ├── references_pathway_cases.md
+│   ├── references_benchmark_cases.md
+│   └── dataset_description.md
 ├── results/
 │   ├── phase1_results.csv
 │   ├── phase2_results.csv
