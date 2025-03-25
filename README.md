@@ -28,7 +28,7 @@ The repository includes:
 ├── data/
 │   ├── pathway_cases.csv
 │   ├── benchmark_cases.csv
-│   └── prompt_templates/
+│   └── prompt_templates.md
 ├── docs/
 │   ├── references.md
 │   └── dataset_description.md
