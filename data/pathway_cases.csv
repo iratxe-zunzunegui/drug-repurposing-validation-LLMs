@@ -5,7 +5,7 @@
 4;Perindopril;Diabetes Mellitus;Hypertensive disease;WP5133;Viable;R4;Known
 5;Verapamil;Hypertensive disease;Diabetes Mellitus;WP5133;Viable;R5;New
 6;Ephedrine;Obesity;Atherosclerosis;WP5181;Non-viable;R6;New
-7;Folic acid;Anemia, Hemolytic;gamma-Glutamyltransferase deficiency;WP4518;Non-viable;R7;New
+7;Folic acid;Hemolytic Anemia;gamma-Glutamyltransferase deficiency;WP4518;Non-viable;R7;New
 8;Niacin;Diabetes mellitus;Hyperglycemia;WP1584;Non-viable;R8;New
 9;Aspirin;Parkinson disease;Major depression, single episode;WP2355;Non-viable;R9;New
 10;Indomethacin;Alzheimer’s disease;Schizofrenia;WP4222;Non-viable;R10;New
