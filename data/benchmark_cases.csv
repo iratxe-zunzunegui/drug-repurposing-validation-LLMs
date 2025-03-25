@@ -1,0 +1,11 @@
+Case_No;Drug_Name;Original_Indication;Repurposed_Indication;Shared_Pathway;Viability;Reference_ID;Known_Status
+31;Rituximab;Various cancers;Rheumatoid arthritis;Not applicable;Viable;R33;Well-known
+32;Dapoxetine;Analgesia and depression;Premature ejaculation;Not applicable;Viable;R33;Well-known
+33;Aspirin;Analgesia;Colorectal cancer;Not applicable;Viable;R33;Well-known
+34;Atomoxetine;Parkinson disease;ADHD;Not applicable;Viable;R33;Well-known
+35;Thalidomide;Morning sickness;Erythema nodosum leprosum and multiple myeloma;Not applicable;Viable;R33;Well-known
+36;Minoxidil;Hypertension;Hair loss;Not applicable;Viable;R33;Well-known
+37;Zidovudine;Cancer;HIV/AIDS;Not applicable;Viable;R33;Well-known
+38;Latrepirdine;Antihistamine;Huntington disease;Not applicable;Non-viable;R33;Well-known
+39;Ceftriaxone;Antibiotic;Amyotrophic lateral sclerosis;Not applicable;Non-viable;R33;Well-known
+40;Topiramate;Epilepsy;Inflammatory bowel disease;Not applicable;Non-viable;R33;Well-known
