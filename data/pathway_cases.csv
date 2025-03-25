@@ -18,7 +18,7 @@
 17;Paclitaxel;Atherosclerosis;Obesity;WP1584;Non-viable;R17;New
 18;Mirtazapine;Parkinson disease;Gilles de la Tourette syndrome;WP4222;Non-viable;R18;New
 19;Rosiglitazone;Type 2 Familial Partial Lipodystrophy;Secondary Myocardial Diseases;WP4222;Non-viable;R19;New
-20;Estradiol;nervous system disorder;Malignant Neoplasms;WP2870;Non-viable;R20, R21;New
+20;Estradiol;nervous system disorder;Malignant Neoplasms;WP2870;Non-viable;R20 & R21;New
 21;Flurbiprofen;Malignant neoplasm of prostate;Prostatic Neoplasms;WP3982;Viable;R22;Known
 22;Sirolimus;Parkinson Disease;Alzheimer’s disease;WP4222;Viable;R23;New
 23;Pioglitazone;Parkinson Disease;Huntington disease;WP4222;Viable;R24;New
@@ -27,5 +27,5 @@
 26;Clioquinol;Alzheimer’s disease;Anorexia Nervosa;WP2355;Non-viable;R27;New
 27;Benzoic Acid;Carbamoyl-Phosphate Synthase I Deficiency Disease;Argininosuccinic Aciduria;WP4583;Non-viable;R28;New
 28;Canrenoate;Hypertensive disease;Diabetes Mellitus;WP5133;Non-viable;R29;New
-29;Melatonin;Colitis;Chron’s disease;WP5198;Non-viable;R30, R31;New
+29;Melatonin;Colitis;Chron’s disease;WP5198;Non-viable;R30 & R31;New
 30;Gabapentin;Parkinson Disease;Down Syndrome;WP5180;Non-viable;R32;New
