@@ -52,7 +52,7 @@ The repository includes:
 
 Zunzunegui Sanz, I., Otero-Carrasco, B., & Rodríguez-González, A.  
 **“Accelerating Drug Repurposing with AI: The Role of Large Language Models in Hypothesis Validation”**  
-*To be presented at the 38th IEEE International Symposium on Computer-Based Medical Systems (IEEE CBMS2025)* – Madrid, Spain 2025  
+*Under review for the 38th IEEE International Symposium on Computer-Based Medical Systems (IEEE CBMS2025)* – Madrid, Spain 2025  
 DOI: 
 
 ---
